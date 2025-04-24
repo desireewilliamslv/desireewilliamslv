@@ -1,6 +1,6 @@
-👋 On a full-stack developer journey — building React apps, connected APIs, and polished user experiences.
-🔧 Exploring the MERN stack, automation tools, and real-world project design.
-🚀 Portfolio loading… please stand by. ✨
+## 👋 On a full-stack developer journey — building React apps, connected APIs, and polished user experiences.
+## 🔧 Exploring the MERN stack, automation tools, and real-world project design.
+## 🚀 Portfolio loading… please stand by. ✨
 
 <!--
 **desireewilliamslv/desireewilliamslv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
